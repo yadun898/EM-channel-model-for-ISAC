@@ -1,9 +1,6 @@
 # EM-channel-model-for-ISAC
-# Fixed TX/RX Array and Single-Target Scattering Simulation
 
-A concise overview of this MATLAB script's purpose and usage.
-
-## File Structure
+The simulation sets up fixed TX and RX antenna arrays and a synthetic target composed of multiple small PEC cylinders. Based on the excitation current at the TX side, the received field and the channel transfer matrix H are calculated using multiple scattering theory.
 
 * MIMO_main.m — Main script:
 
